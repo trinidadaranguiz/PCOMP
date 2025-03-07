@@ -1,8 +1,8 @@
-# OKOK Pensamiento Computacional 2025-A  
+# Pensamiento Computacional 2025-A  
 
 **Repo de tareas y ejercicios para clase de Pensamiento Computacional, Escuela de la Diseño, Pontificia Universidad Católica de Chile.**.  
 
-Acá iremos dejando material de las tareas, entonces deben ir bajando estas mediante git pull desde su terminal o cmd. Pueden ver ams referencias a comandos GIT en el archivo REFERENCIAS_GITHUB.    
+en estew repositorio iremos dejando material de los ejercicios. Entonces deben ir bajando estas mediante git pull desde su terminal o cmd. Pueden ver ams referencias a comandos GIT en el archivo REFERENCIAS_GITHUB.   
 <br> 
 
 ## I. DESCRIPCIÓN DEL CURSO 
