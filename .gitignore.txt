@@ -1,2 +1,3 @@
 .DS_Store
 M01_Ejercicios/.DS_Store
+M02_Ejercicios/.DS_Store
