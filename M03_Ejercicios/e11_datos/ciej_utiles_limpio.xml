@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <fecha>2016-07-12 00:00:00</fecha>
+    <region>sur</region>
+    <nombre>lucia</nombre>
+    <item>cuaderno</item>
+    <cantidad>29.0</cantidad>
+    <costounidad>200.0</costounidad>
+    <total>5800.0</total>
+  </row>
+  <row>
+    <index>1</index>
+    <fecha>2016-06-08 00:00:00</fecha>
+    <region>centro</region>
+    <nombre>juan</nombre>
+    <item>cuaderno</item>
+    <cantidad>60.0</cantidad>
+    <costounidad>200.0</costounidad>
+    <total>12000.0</total>
+  </row>
+  <row>
+    <index>2</index>
+    <fecha>2016-01-23 00:00:00</fecha>
+    <region>centro</region>
+    <nombre>luis</nombre>
+    <item>cuaderno</item>
+    <cantidad>50.0</cantidad>
+    <costounidad>200.0</costounidad>
+    <total>10000.0</total>
+  </row>
+  <row>
+    <index>3</index>
+    <fecha>2016-03-15 00:00:00</fecha>
+    <region>norte</region>
+    <nombre>carlos</nombre>
+    <item>lápiz</item>
+    <cantidad>56.0</cantidad>
+    <costounidad>100.0</costounidad>
+    <total>5600.0</total>
+  </row>
+  <row>
+    <index>4</index>
+    <fecha>2016-05-22 00:00:00</fecha>
+    <region>norte</region>
+    <nombre>luis</nombre>
+    <item>lápiz</item>
+    <cantidad>32.0</cantidad>
+    <costounidad>100.0</costounidad>
+    <total>3200.0</total>
+  </row>
+  <row>
+    <index>5</index>
+    <fecha>2016-04-18 00:00:00</fecha>
+    <region>sur</region>
+    <nombre>lucia</nombre>
+    <item>lápiz</item>
+    <cantidad>75.0</cantidad>
+    <costounidad>100.0</costounidad>
+    <total>7500.0</total>
+  </row>
+  <row>
+    <index>6</index>
+    <fecha>2016-10-22 00:00:00</fecha>
+    <region>centro</region>
+    <nombre>juan</nombre>
+    <item>libro</item>
+    <cantidad>64.0</cantidad>
+    <costounidad/>
+    <total/>
+  </row>
+  <row>
+    <index>7</index>
+    <fecha>2016-02-26 00:00:00</fecha>
+    <region>centro</region>
+    <nombre>pedro</nombre>
+    <item>libro</item>
+    <cantidad>27.0</cantidad>
+    <costounidad>135.0</costounidad>
+    <total>3645.0</total>
+  </row>
+  <row>
+    <index>8</index>
+    <fecha>2016-09-18 00:00:00</fecha>
+    <region>centro</region>
+    <nombre>juan</nombre>
+    <item>tinta</item>
+    <cantidad>16.0</cantidad>
+    <costounidad>50.0</costounidad>
+    <total>800.0</total>
+  </row>
+</data>
